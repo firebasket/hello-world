@@ -1,3 +1,8 @@
 [dummy-nonprod]
 aws_access_key_id = AKIAXN7SKRGL3W3JAMPI
 aws_secret_access_key rNt7LjgG4TPKLZGJRrzxo+MRIfJd7DDj2K5xtbw
+
+
+===
+export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMAAA
+export AWS_SECRET_ACCESS_KEY=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
